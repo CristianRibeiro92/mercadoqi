@@ -1,0 +1,30 @@
+#titulo{
+    background-color: black;
+    color: white;
+}
+
+body{
+    background-image: url("../img/fundo.jpg");
+    background-size: 100% 100%;
+}
+
+input, select{
+    width: 100%;
+}
+
+
+#descricao{
+    height: 100px;
+}
+
+#cabecalhoLista{
+    background-color: rgba(0,0,0,0.8);
+    color: white;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+
+
